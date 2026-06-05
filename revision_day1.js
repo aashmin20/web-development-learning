@@ -1,4 +1,4 @@
-// Revision
+// Revision day 1
 // Variables
 let myname = "Ash";
 console.log(myname);
