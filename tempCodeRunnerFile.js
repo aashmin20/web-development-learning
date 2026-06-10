@@ -1,2 +1,3 @@
-let c2= c.splice(1,0,"ap");
-// console.log(c2);
+obj.course = "btech";
+// console.log(obj);
+// delete obj.myname();
